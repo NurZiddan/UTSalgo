@@ -1,0 +1,3 @@
+pengertian : Algoritma greedy merupakan algoritma yang bersifat heuristik dan urutan logisnya disusun berdasarkan langkah-langkah penyelesaian masalah yang disusun secara sistematis.
+Contoh :  Gmaps,Gojek,Grab
+Implementasi : contoh kode program akan diberikan dalam bahasa pemrograman python. Sebagai langkah awal, tentunya kita terlebih dahulu harus merepresentasikan graph. Pada implementasi yang kita lakukan, graph direpresentasikan dengan menggunakan dictionary di dalam dictionary.
